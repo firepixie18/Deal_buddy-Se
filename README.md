@@ -60,8 +60,8 @@ Deal Buddy is a web application built with Next.js that allows users to input th
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/DarrenChahal/PriceWatchDog.git
-   cd PriceWatchDog
+   git clone https://github.com/firepixie18/Deal_buddy-Se.git
+   cd my-app
 2. **Install dependencies:**
     ```sh
     npm install
