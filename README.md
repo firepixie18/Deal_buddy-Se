@@ -95,3 +95,12 @@ Open http://localhost:3000 with your browser to see the result.
    Click on the "Track" button to start tracking the product's price. You will be notified via email when the price drops.
 
 
+## Demo
+
+Here are some screenshots of the application in action:
+
+![Landing Page](DemoImages/1.jpeg)
+*Figure 1: Landing Page with search functionality.*
+
+![Product Price Information](DemoImages/2.jpeg)
+*Figure 2: Product price information display.*
